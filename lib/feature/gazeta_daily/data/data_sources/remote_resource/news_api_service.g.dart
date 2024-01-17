@@ -1,4 +1,4 @@
-part of 'news_api_service.dart';
+/*part of 'news_api_service.dart';
 
 class _NewsApiService implements NewsApiService {
   _NewsApiService(this._dio, {this.baseUrl}) {
@@ -46,3 +46,4 @@ class _NewsApiService implements NewsApiService {
     return requestOptions;
   }
 }
+*/
